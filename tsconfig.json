@@ -19,6 +19,6 @@
     "noUnusedLocals": true,
     "alwaysStrict": true
   },
-  "include": ["src", "Assignment-3-Bckend/config", "test"],
+  "include": ["src", "Assignment-3-Bckend/config", "Assignment-3-Bckend/test"],
   "exclude": ["node_modules", "dist"]
 }
