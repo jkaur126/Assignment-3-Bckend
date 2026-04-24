@@ -1,4 +1,4 @@
-import { db } from "../../../../config/firebaseConfig";
+import { db } from "../../../../config/firebaseconfig";
 import { Event } from "../models/eventModel";
 
 const collection = db.collection("events");
