@@ -1,2 +1,9 @@
 node_modules/
 dist/
+.env
+*.json
+!package.json
+!package-lock.json
+!tsconfig.json
+!jest.config.js
+coverage
